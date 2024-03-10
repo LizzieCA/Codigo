@@ -1,0 +1,39 @@
+
+
+body
+{
+    background-color: rgb(29, 56, 56);
+    padding:50px;
+
+}
+h1{
+    font-size: 90px;
+  text-align: center;
+    color:rgb(129, 196, 75);
+}
+#llanta{width: 50px; height: 50px;}
+h4{
+    color:rgb(241, 179, 22);
+    font-size: 50px;
+  text-align: center;
+}
+h6{
+    color:rgb(212, 246, 59);
+    font-size: 20px;
+  text-align: center;
+}
+#carro{width :100px; height:90 px;}
+#pista{width:50000px; height:60px;}
+#benz {
+    display: block;
+    margin:auto;
+    height: 200px;
+    width: 200px;
+}
+#mustang{ 
+    width: 200px;
+     height: 200px;
+    float : right;
+}
+#ferrari{width: 200px;
+    height: 200px;}
